@@ -360,3 +360,7 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/.idea/hw-js.iml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/vcs.xml
